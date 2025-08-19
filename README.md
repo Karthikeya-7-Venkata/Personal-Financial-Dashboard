@@ -2,12 +2,12 @@
 
 This repository contains a Power BI report file (**Personal Finance Dashboard.pbix**) that provides comprehensive analytics on personal finances, helping you track income, expenses, savings, and investments with interactive insights.
 
----
+
 
 ## 📁 File Included
 - **Personal Finance Dashboard.pbix**: A Power BI Desktop file with interactive visualizations related to personal finance metrics.
 
----
+
 
 ## 📊 Key Features
 - Overall **Income vs. Expenses** overview  
@@ -16,7 +16,7 @@ This repository contains a Power BI report file (**Personal Finance Dashboard.pb
 - **Monthly & Yearly Trends** analysis  
 - Interactive filters for **time period and categories**  
 
----
+
 
 ## 🚀 How to Open the Report
 ⚠️ GitHub does not allow online previews for `.pbix` files. Follow these steps to download and view it:
@@ -26,7 +26,7 @@ This repository contains a Power BI report file (**Personal Finance Dashboard.pb
 3. Save the file to your local system.  
 4. Open the file using **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)**.  
 
----
+
 
 ## 🛠 Requirements
 - Power BI Desktop (latest version recommended)  
